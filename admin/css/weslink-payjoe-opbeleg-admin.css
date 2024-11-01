@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .payjoe_status .dashicons-before {
+	margin: 3px;
+	line-height: 20px;
+ }
